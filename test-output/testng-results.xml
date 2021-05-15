@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-15T21:48:53 AEST" name="Default suite" finished-at="2021-05-15T21:49:03 AEST" duration-ms="9870">
+    <groups>
+    </groups>
+    <test started-at="2021-05-15T21:48:53 AEST" name="Default test" finished-at="2021-05-15T21:49:03 AEST" duration-ms="9870">
+      <class name="testLogin.testingLogin">
+        <test-method signature="createNewAcc_Test()[pri:0, instance:testLogin.testingLogin@29215f06]" started-at="2021-05-15T21:48:53 AEST" name="createNewAcc_Test" finished-at="2021-05-15T21:49:03 AEST" duration-ms="9763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewAcc_Test -->
+      </class> <!-- testLogin.testingLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
